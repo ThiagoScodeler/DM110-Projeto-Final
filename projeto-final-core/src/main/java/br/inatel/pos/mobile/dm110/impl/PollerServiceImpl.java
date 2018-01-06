@@ -4,7 +4,6 @@ import javax.ejb.EJB;
 import javax.enterprise.context.RequestScoped;
 
 import br.inatel.pos.mobile.dm110.api.PollerService;
-//import br.inatel.pos.mobile.dm110.interfaces.PollerRemote;
 import br.inatel.pos.mobile.dm110.interfaces.PollerRemote;
 import br.inatel.pos.mobile.dm110.to.PollerEquipamentoTO;
 
